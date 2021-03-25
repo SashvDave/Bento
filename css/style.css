@@ -9,15 +9,6 @@
   --fss: 25px; /* Greetings and Weather widger */
   --fses: 16px; /* Links List */
 
-/* Dark theme  */
-.darktheme {
-  --accent: #4b8ec4; /* Hover color */
-  --bg: #19171a; /* Background color */
-  --sbg: #201e21; /* Cards color */
-  --fg: #d8dee9; /* Foreground color */
-  --sfg: #3a3a3a; /* Secondary Foreground color */
-}
-
   /* Image background  */
 
   /* Uncoment this section to get the 
@@ -39,10 +30,6 @@
   --sbg: #201e21; /* Cards color */
   --fg: #d8dee9; /* Foreground color */
   --sfg: #3a3a3a; /* Secondary Foreground color */
-  --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0.7),
-    rgba(0, 0, 0, 0.7)
-  ); /* Filter color */
 }
 
 /* S T Y L E S */
